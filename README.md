@@ -232,4 +232,4 @@ This repository serves as the official landing page for Cubic Chess. The softwar
 **Get the most recent version of Cubic Chess today!**
 
 ---
-**Last updated:** 2026-10-16 12:51:41 UTC
+**Last updated:** 2026-10-16 17:04:55 UTC
